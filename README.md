@@ -11,7 +11,37 @@ Ready-to-use ComfyUI workflow templates for AI image, video, and audio generatio
 5. **Download required models** (check template README)
 6. **Generate!**
 
-## 📁 Available Templates
+## ⭐ Gold Standard Starters
+
+**Canonical, battle-tested workflows from official sources:**
+
+### 🏛️ Official ComfyUI Examples
+- **[Basic Text-to-Image](templates/community-templates/basics/default/)** - From [ComfyUI Official Templates](https://github.com/Comfy-Org/workflow_templates) - Your first workflow
+- **[ControlNet Example](templates/community-templates/basics/controlnet_example/)** - From [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) - Official pose control
+- **[LoRA Workflow](templates/community-templates/basics/lora/)** - From [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) - Model fine-tuning
+
+### 🔥 Black Forest Labs Official
+- **[Flux Dev Complete](templates/community-templates/flux-advanced/flux_dev_full_text_to_image/)** - From [Flux Official](https://github.com/black-forest-labs/flux) - Production-ready text-to-image
+- **[Flux Redux](templates/community-templates/flux-advanced/flux_redux_model_example/)** - From [Flux Docs](https://blackforestlabs.ai/) - Image prompting
+
+### 🎬 Video Generation Gold Standards  
+- **[Wan 2.2 14B T2V](templates/video-generation/wan-22/text_to_video_wan22_14B.json)** - From [TencentARC](https://github.com/TencentARC/SEED-Story) - Latest 14B model
+- **[Wan 2.2 14B I2V](templates/video-generation/wan-22/image_to_video_wan22_14B.json)** - Image-to-video with exact model paths
+- **[LTXV Text-to-Video](templates/community-templates/video-generation/ltxv_text_to_video/)** - From [Lightricks Official](https://huggingface.co/Lightricks/LTX-Video)
+
+### ⚡ Get Started in 30 Seconds
+**New to ComfyUI? Start here:**
+1. Download [Basic Text-to-Image](templates/community-templates/basics/default/default.json) (right-click → save)
+2. Open ComfyUI and drag the file into the interface  
+3. Click "Queue Prompt" - it works with default models!
+
+**Want better quality?** Try [Flux Dev Complete](templates/community-templates/flux-advanced/flux_dev_full_text_to_image/flux_dev_full_text_to_image.json) (requires Flux model download)
+
+> 🎯 **Why these?** Each template is sourced from official repositories, tested on clean ComfyUI installs, and includes exact model requirements.
+
+---
+
+## 📁 All Templates by Category
 
 ### 📋 **Community Templates** (20 workflows)
 **[templates/community-templates/](templates/community-templates/)**
@@ -34,17 +64,6 @@ Ready-to-use ComfyUI workflow templates for AI image, video, and audio generatio
 
 ### 🎭 **Character Generation** (1 workflow)
 - **[Anime Characters](templates/character-generation/anime-characters/)** - 1 Ultraman character generator
-
-## 🚀 Popular Templates
-
-**Start with these:**
-
-- **[Basic Text-to-Image](templates/community-templates/basics/default/)** - Your first ComfyUI workflow  
-- **[Flux Dev Workflow](templates/community-templates/flux-advanced/flux_dev_full_text_to_image/)** - High-quality image generation
-- **[ControlNet Example](templates/community-templates/basics/controlnet_example/)** - Control poses and composition
-- **[Video Generation](templates/community-templates/video-generation/ltxv_text_to_video/)** - Text-to-video with LTXV
-- **[Image Upscaling](templates/image-enhancement/flux-upscaling/)** - Enhance image resolution
-- **[Wan 2.2 Video](templates/video-generation/wan-22/)** - Latest text/image-to-video models
 
 ## 🤝 Contributing
 
