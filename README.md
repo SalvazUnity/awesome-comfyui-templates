@@ -17,16 +17,19 @@ Ready-to-use ComfyUI workflow templates for AI image, video, and audio generatio
 
 ### 🏛️ Official ComfyUI Examples
 - **[Basic Text-to-Image](templates/community-templates/basics/default/)** - From [ComfyUI Official Templates](https://github.com/Comfy-Org/workflow_templates) - Your first workflow
-- **[ControlNet Example](templates/community-templates/basics/controlnet_example/)** - From [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) - Official pose control
-- **[LoRA Workflow](templates/community-templates/basics/lora/)** - From [ComfyUI Examples](https://github.com/comfyanonymous/ComfyUI_examples) - Model fine-tuning
+- **[Hires Fix](templates/image-generation/official-examples/hires-fix/)** - From [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/2_pass_txt2img/) - Essential high-res technique
+- **[Basic Img2Img](templates/image-generation/official-examples/img2img-basic/)** - From [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/img2img/) - Transform images with text
+- **[Area Composition](templates/image-generation/official-examples/area-composition/)** - From [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/area_composition/) - Regional prompting
+- **[LoRA Workflows](templates/image-generation/official-examples/lora/)** - From [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/lora/) - Fine-tune with LoRA models
+- **[Browse All Official Examples →](templates/image-generation/official-examples/)** - Complete collection from comfyanonymous
 
 ### 🔥 Black Forest Labs Official
 - **[Flux Dev Complete](templates/community-templates/flux-advanced/flux_dev_full_text_to_image/)** - From [Flux Official](https://github.com/black-forest-labs/flux) - Production-ready text-to-image
 - **[Flux Redux](templates/community-templates/flux-advanced/flux_redux_model_example/)** - From [Flux Docs](https://blackforestlabs.ai/) - Image prompting
 
 ### 🎬 Video Generation Gold Standards  
+- **[SVD Advanced (SDXL+Video)](templates/video-generation/official-examples/svd-advanced/)** - From [ComfyUI Examples](https://comfyanonymous.github.io/ComfyUI_examples/video/) - Text→Image→Video pipeline
 - **[Wan 2.2 14B T2V](templates/video-generation/wan-22/text_to_video_wan22_14B.json)** - From [TencentARC](https://github.com/TencentARC/SEED-Story) - Latest 14B model
-- **[Wan 2.2 14B I2V](templates/video-generation/wan-22/image_to_video_wan22_14B.json)** - Image-to-video with exact model paths
 - **[LTXV Text-to-Video](templates/community-templates/video-generation/ltxv_text_to_video/)** - From [Lightricks Official](https://huggingface.co/Lightricks/LTX-Video)
 
 ### ⚡ Get Started in 30 Seconds
@@ -74,4 +77,4 @@ Have a great ComfyUI workflow? Share it! See [CONTRIBUTING.md](CONTRIBUTING.md) 
 MIT License - Use these templates however you want!
 
 ---
-*Collection of 39 ready-to-use ComfyUI workflows*
+*Collection of 44 ready-to-use ComfyUI workflows from official and community sources*
