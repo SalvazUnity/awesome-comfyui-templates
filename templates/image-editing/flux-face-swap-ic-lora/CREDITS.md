@@ -9,7 +9,7 @@
 If you are the original author, please open an issue/PR and we will update credit or remove promptly.
 
 This repository adds:
-- Extracted `workflow.json` for interoperability,
+- Extracted `flux_face_swap_ic_lora.json` for interoperability,
 - Minimal documentation to reproduce on a clean ComfyUI install.
 
 All third-party images/models remain the property of their respective owners.
